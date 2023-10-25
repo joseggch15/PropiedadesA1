@@ -1,0 +1,1 @@
+# PropiedadesA1
