@@ -1,0 +1,36 @@
+[
+    {
+        "id": "apartamento-01",
+        "titulo": "Apartamento 01",
+        "imagen": "../img/apartamentos/Apartamento-1.webp",
+        "categoria": {
+            "nombre": "Apartamentos",
+            "id": "apartamentos"
+        },
+        "precio": 250000000,
+        "ubicacion":"Cartagena - Las Marmotes"
+    },
+    {
+        "id": "casa-01",
+        "titulo": "Casa 01",
+        "imagen": "../img/casas/casa-1.jpeg",
+        "categoria": {
+            "nombre": "Casas",
+            "id": "casas"
+        },
+        "precio": 5000000000,
+        "ubicacion":"Cartagena - Rincon Guapo"
+    },
+    {
+        "id": "lote-01",
+        "titulo": "Lote 01",
+        "imagen": "../img/lotes/Lote - 01.jpg",
+        "categoria": {
+            "nombre": "Lotes",
+            "id": "lotes"
+        },
+        "precio": 90000000,
+        "ubicacion":"Cartagena - La Perimetral"
+    }
+
+]
